@@ -20,5 +20,6 @@ docker run --rm -it -e SLEEP=100  dawidmalina/simple-logger-app:0.0.1-SNAPSHOT
 
 
 Credits, source:
-```https://github.com/dawidmalina/simple-logger-app
+```
+https://github.com/dawidmalina/simple-logger-app
 ```
